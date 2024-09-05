@@ -1,0 +1,22 @@
+{
+    "name": "dagar/convoy",
+    "description": "php plugin for convoy api",
+    "type": "library",
+    "require-dev": {
+        "laravel/pint": "dev-main"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dagar\\Convoy\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "4nkitd",
+            "email": "4nkitd@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
